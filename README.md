@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pizza-Ordering-and-Delivery-Management-Application
 
 Pizza Ordering App
@@ -9,3 +10,6 @@ Delivery Man's App
 ![screenshot2](https://cloud.githubusercontent.com/assets/11568137/14499913/a6e5ca84-01bd-11e6-93ef-07a2ac5ea1f0.png)
 
 ![screenshot3](https://cloud.githubusercontent.com/assets/11568137/14499917/aaae9650-01bd-11e6-9a5a-92f3d07eba98.png)
+=======
+Haaaaai :)
+>>>>>>> 09d391f58d6c71eabd49f0d57910b8ae11ba0f59
